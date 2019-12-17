@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>462225150545-21l1e98udcpf303vk2oq0331edfm707m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.462225150545-21l1e98udcpf303vk2oq0331edfm707m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWnsbhDfeLHYE82_UKx3_rSjpnZhFvfy0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462225150545</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yenz0redd.Firebase-authorization</string>
+	<key>PROJECT_ID</key>
+	<string>fir-auterization</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-auterization.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462225150545:ios:7efc083b9558e9dce01e70</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-auterization.firebaseio.com</string>
+</dict>
+</plist>
